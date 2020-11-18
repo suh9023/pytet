@@ -148,7 +148,6 @@ while True:
         oScreen = Matrix(iScreen)
         oScreen.paste(tempBlk, top, left)
         draw_matrix(oScreen); print()
-                                                                                                    ###
-                                                                                                    ### end of the loop
-                                                                                                    ###
-                                                                                                
+###
+### end of the loop
+###                                                                                                
